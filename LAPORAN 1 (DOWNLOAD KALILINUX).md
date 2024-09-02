@@ -17,19 +17,25 @@
 
    ![image](https://github.com/user-attachments/assets/8c61d393-7dd3-4f6b-b3c4-6416115cb7d8)
 
+   ![image](https://github.com/user-attachments/assets/c46afe5d-d296-49ea-9707-36ac26fecc56)
+
+   ![image](https://github.com/user-attachments/assets/10ecfa8b-67b2-48d1-8247-ded34924bab5)
 
 
-3. Halaman Awal KaliLinux
+
+
+
+4. Halaman Awal KaliLinux
 
    ![image](https://github.com/user-attachments/assets/b7421c28-211d-4ebc-b0ba-e66de29c4659)
 
 
-4. Pilih **Graphical Install**
+5. Pilih **Graphical Install**
 
    ![image](https://github.com/user-attachments/assets/98ba516c-78b7-403b-87b2-a659170ebf9c)
 
 
-5. Lalu, lanjutkan dengan step-step berikut ini
+6. Lalu, lanjutkan dengan step-step berikut ini
 
    ![image](https://github.com/user-attachments/assets/71721604-5c4a-4319-b4d5-4e74f7696ce0)
 
@@ -66,6 +72,16 @@
    ![image](https://github.com/user-attachments/assets/3c33121d-8332-41a7-98db-e316ba1b1129)
 
    ![image](https://github.com/user-attachments/assets/4f8de89c-000e-4d91-b60d-456c75c45dda)
+
+   ![image](https://github.com/user-attachments/assets/9bf74e21-eaa4-41d0-a753-ea1cdb8d154c)
+
+
+
+7. Setelah KaliLinux berhasil terinstall, kita mulai dengan login terlebih dahulu, lalu tampilan depan dari kalilinux akan terbuka.
+
+   ![image](https://github.com/user-attachments/assets/203203f2-d603-4b92-8b78-059631d265d7)
+
+   ![image](https://github.com/user-attachments/assets/529abcba-43a2-409b-a4c2-8a38e96bf957)
 
    
 
