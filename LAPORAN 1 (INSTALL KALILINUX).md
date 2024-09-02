@@ -1,4 +1,4 @@
-# DOWNLOAD KALILINUX
+# INSTALL KALILINUX
 
 1. Klik **"Machine"** lalu klik **"New"**
 
